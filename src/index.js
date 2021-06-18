@@ -44,6 +44,7 @@ export default class Sketch {
 
 		this.renderer.setSize(this.width, this.height)
 		this.camera.aspect = this.width / this.height
+		this.camera.updateProjectionMatrix()
 	}
 
 	addObjects() {
