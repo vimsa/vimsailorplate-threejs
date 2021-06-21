@@ -1,6 +1,6 @@
-# vimsailorplate
+# Vimsa Boilerplate
 
-ThreeJs Boilerplate
+ThreeJs Webpack Boilerplate
 
 ## Setup
 
