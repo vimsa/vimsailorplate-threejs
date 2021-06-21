@@ -15,8 +15,9 @@ html
     height: 100vh;
 }
 
-.webgl
+canvas
 {
+    outline: none;
     position: fixed;
     top: 0;
     left: 0;
